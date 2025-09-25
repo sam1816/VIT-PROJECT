@@ -46,9 +46,7 @@ Follow these steps to get a local copy up and running.
 ### Installation & Execution
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/VISHESHJAIN2006/VITyarthi-Java-Project
-    ```
+
 
 2.  **Import into Eclipse IDE:**
     * Navigate to `File` > `Import` > `General` > `Existing Projects into Workspace`.
@@ -121,16 +119,16 @@ This table highlights where key OOP and Java concepts are implemented within the
 
 ## ✍️ Author
 
-**Vishesh Jain**
+SAMRIDDHI KEKATPURE
 
-* GitHub: [@VISHESHJAIN2006](https://github.com/VISHESHJAIN2006)
 
 ---
 
 ## Acknowledgements
 
-* This project was developed by **Vishesh Jain**. All code is their original work.
+* This project was developed by **SAMRIDDHI KEKATPURE **. All code is their original work.
 * Official Oracle Java SE Documentation was referenced during development.
 
 ### Academic Integrity
 This project represents my own individual work. In accordance with academic guidelines, no external code or assistance from Large Language Models (LLMs) was used in its creation. All referenced materials are cited above.
+
